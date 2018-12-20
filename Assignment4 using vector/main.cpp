@@ -11,6 +11,7 @@ int main() {
     std::vector <int> first(std::begin(arr), std::end(arr));
 	number.SelectionSorter(arr, 8);
 	number.printArray(arr, 8);
+	return 0;
 
 
 
